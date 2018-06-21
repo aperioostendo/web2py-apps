@@ -1,0 +1,9 @@
+[2018-06-21 15:27:28] START
+[2018-06-21 15:28:47] EDIT myapp/controllers/default.py: 1
+[2018-06-21 15:30:19] EDIT myapp/controllers/default.py: 0
+[2018-06-21 15:31:58] EDIT myapp/controllers/default.py: 0
+[2018-06-21 15:36:22] EDIT myapp/views/default/index.html: 1
+[2018-06-21 15:39:57] EDIT myapp/views/default/index.html: -1
+[2018-06-21 15:42:00] EDIT myapp/controllers/default.py: 5
+[2018-06-21 15:42:59] EDIT myapp/views/default/index.html: 1
+[2018-06-21 16:04:22] EDIT myapp/controllers/default.py: 0
