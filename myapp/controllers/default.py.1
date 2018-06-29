@@ -16,11 +16,11 @@ def index():
     return dict(message=T('Welcome to web2py!'),counter=session.counter)
 
 def first():
-    if request.vars.visitor_name:
-	    session.visitor_name=request.vars.visitor_name
-        redirect(URL('second'))
+	if request.vars.visitor_name:
+		session.visitor_name=request.vars.visitor_name
+		redirect(URL('second')
     return dict()
-
+                 
 def second():
     return dict()
 
